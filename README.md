@@ -6,7 +6,7 @@
   ## Description
   This is a command line application that allows you to create a README markdown file that can be used to describe and document all of your applications
 
-  ## URL of Deployed Application
+  ## URL of Repository Holding the Javascript Code.
 
   ## Demonstration of Deployed Application
 
