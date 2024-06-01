@@ -10,7 +10,7 @@
 
   ## Demonstration of Deployed Application
 
-  ## Screenshot of Deployed Application
+  ## Screenshots of Deployed Application
 
   ## Table of Contents
   - [Installation](#installation)
