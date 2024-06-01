@@ -6,10 +6,14 @@
   ## Description
   This is a command line application that allows you to create a README markdown file that can be used to describe and document all of your applications
 
-  ## URL of Deployed Application
+  ## URL of Repository Holding the Javascript Code
+
+  [README Challenge Repo](https://github.com/tjmcd2010/readme-challenge-09)
 
   ## Demonstration of Deployed Application
 
+  [Video Demonstration](https://drive.google.com/file/d/1fKXq_LfOiWT73Ufj-S5oIfhYYADFHL4t/view?usp=drive_link)
+  
   ## Screenshots of Deployed Application
 
   ## Table of Contents
