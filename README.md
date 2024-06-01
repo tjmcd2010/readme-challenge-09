@@ -13,8 +13,14 @@
   ## Demonstration of Deployed Application
 
   [Video Demonstration](https://drive.google.com/file/d/1fKXq_LfOiWT73Ufj-S5oIfhYYADFHL4t/view?usp=drive_link)
-  
+
   ## Screenshots of Deployed Application
+
+  ![Demo of Generated README Screenshot - Top](./Screenshots/completed-readme-top.png)
+
+  ![Demo of Generated README Screenshot - Bottom](./Screenshots/completed-readme-bottom.png)
+
+  ![gitignore file screenshot](./Screenshots/gitignore-file.png)
 
   ## Table of Contents
   - [Installation](#installation)
