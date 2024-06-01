@@ -11,14 +11,26 @@
   [README Challenge Repo](https://github.com/tjmcd2010/readme-challenge-09)
 
   ## Demonstration of Deployed Application
-
+  
   [Video Demonstration](https://drive.google.com/file/d/1fKXq_LfOiWT73Ufj-S5oIfhYYADFHL4t/view?usp=drive_link)
+
+  ## Screeshots of finished README and code snippets
+
+  ### Generated README from Demo - Top Section
 
   ![Demo of Generated README Screenshot - Top](./Screenshots/completed-readme-top.png)
 
+  ### Generated README from Demo - Top Section
+  
   ![Demo of Generated README Screenshot - Bottom](./Screenshots/completed-readme-bottom.png)
 
+  ### Screenshot of gitignore file
+
   ![gitignore file screenshot](./Screenshots/gitignore-file.png)
+
+  ### Screenshot of package.json file
+
+  ![package.json file screenshot](./Screenshots/json-package.png)
 
   ## Table of Contents
   - [Installation](#installation)
