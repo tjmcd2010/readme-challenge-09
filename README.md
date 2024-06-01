@@ -13,8 +13,9 @@
   ## Demonstration of Deployed Application
 
   [Video Demonstration](https://drive.google.com/file/d/1fKXq_LfOiWT73Ufj-S5oIfhYYADFHL4t/view?usp=drive_link)
-  
-  ## Screenshots of Deployed Application
+
+  ## Screenshots of Deployed Application and Miscellaneous Code
+
 
   ## Table of Contents
   - [Installation](#installation)
@@ -26,7 +27,13 @@
   - [Questions](#questions)
 
   ## Installation
-  1. Clone the repository from Github. 2. Ensure that Node.js is running in your local VS Code. 3. Clone the repository into the appropriate folder in your terminal. 4. Navigate to the appropriate folder in VS Code. 5. Input the following command in your terminal: Node Index. 6. Follow instructions in the terminal to answer all questions. 7. You will receive a success message and the new README file will generate in your folder 
+  1. Clone the repository from Github.
+  2. Ensure that Node.js is running in your local VS Code.
+  3. Clone the repository into the appropriate folder in your terminal.
+  4. Navigate to the appropriate folder in VS Code.
+  5. Input the following command in your terminal: Node Index.
+  6. Follow instructions in the terminal to answer all questions.
+  7. You will receive a success message and the new README file will generate in your folder 
 
   ## Usage
   This README generator can be used for all projects that require a README. It can be customized so that it will meet all of the requirements of your project, and thoroughly describes all aspects of your application.
