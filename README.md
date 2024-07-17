@@ -18,11 +18,11 @@
 
   ### Generated README from Demo - Top Section
 
-  ![Demo of Generated README Screenshot - Top](./Screenshots/completed-readme-top.png)
+  ![Demo of Generated README Screenshot - Top](./Screenshots/completed-top.png)
 
   ### Generated README from Demo - Top Section
   
-  ![Demo of Generated README Screenshot - Bottom](./Screenshots/completed-readme-bottom.png)
+  ![Demo of Generated README Screenshot - Bottom](./Screenshots/completed-bottom.png)
 
   ### Screenshot of gitignore file
 
