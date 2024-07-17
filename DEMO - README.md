@@ -1,7 +1,7 @@
 
   # README Challenge
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   This is a challenge to utilize the command line to create a README file
@@ -22,7 +22,7 @@
   - [Questions](#questions)
 
   ## Installation
-  You will need to ensure you have node.js installed on your computer. You will download the repository and use it in VS Code. Once you are in the appropriate folder, you can start to generate your README by  inputtin g node index
+  You will need to ensure you have node.js installed on your computer. You will download the repository and use it in VS Code. Once you are in the appropriate folder, you can start to generate your README by inputting node ind
 
   ## Usage
   This can be used for any project that requires you to include a README for documentation
@@ -34,10 +34,11 @@
   To test, simply input values when prompted and the README will generate and you can update the code as needed
 
   ## Technologies
-  JavaScript,Inquirer,Markdown,Node.js,JSON
+  
+  Node.js, Inquirer, CLI, Javascript, Markdown
 
    ## License
-  BSD 3
+  MIT
 
   ## Questions
 
